@@ -1,14 +1,1 @@
-# Print-It WebSite v.1
-# Projet-5-Print-it-JS-main
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
-# Projet-5-Print-it
+Réalisation du carousel, avec les flèches et les bullets points cliquables.
